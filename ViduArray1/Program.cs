@@ -4,6 +4,7 @@ namespace ViduArray1
 {
     class Program
     {
+        //mang
         static void Main(string[] args)
         {
             int[,] array = CreateArray();
