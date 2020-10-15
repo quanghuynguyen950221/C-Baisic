@@ -1,0 +1,13 @@
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\bin\Debug\netcoreapp3.1\arrays4.08.exe
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\bin\Debug\netcoreapp3.1\arrays4.08.deps.json
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\bin\Debug\netcoreapp3.1\arrays4.08.runtimeconfig.json
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\bin\Debug\netcoreapp3.1\arrays4.08.runtimeconfig.dev.json
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\bin\Debug\netcoreapp3.1\arrays4.08.dll
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\bin\Debug\netcoreapp3.1\arrays4.08.pdb
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\obj\Debug\netcoreapp3.1\arrays4.08.csprojAssemblyReference.cache
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\obj\Debug\netcoreapp3.1\arrays4.08.AssemblyInfoInputs.cache
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\obj\Debug\netcoreapp3.1\arrays4.08.AssemblyInfo.cs
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\obj\Debug\netcoreapp3.1\arrays4.08.csproj.CoreCompileInputs.cache
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\obj\Debug\netcoreapp3.1\arrays4.08.dll
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\obj\Debug\netcoreapp3.1\arrays4.08.pdb
+D:\HocLapTrinh\csBasic\cs_Basic\arrays4.08\obj\Debug\netcoreapp3.1\arrays4.08.genruntimeconfig.cache

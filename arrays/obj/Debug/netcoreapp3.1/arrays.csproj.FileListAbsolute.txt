@@ -1,0 +1,13 @@
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\bin\Debug\netcoreapp3.1\arrays.exe
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\bin\Debug\netcoreapp3.1\arrays.deps.json
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.json
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.dev.json
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\bin\Debug\netcoreapp3.1\arrays.dll
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\bin\Debug\netcoreapp3.1\arrays.pdb
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\obj\Debug\netcoreapp3.1\arrays.csprojAssemblyReference.cache
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfoInputs.cache
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfo.cs
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\obj\Debug\netcoreapp3.1\arrays.csproj.CoreCompileInputs.cache
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\obj\Debug\netcoreapp3.1\arrays.dll
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\obj\Debug\netcoreapp3.1\arrays.pdb
+D:\HocLapTrinh\csBasic\cs_Basic\arrays\obj\Debug\netcoreapp3.1\arrays.genruntimeconfig.cache
